@@ -1,0 +1,5 @@
+{
+  "name": "QuranHikmah",
+  "description": "A comprehensive Quran learning application featuring Arabic text, Bengali translations, and AI-powered Tafsir using Gemini.",
+  "requestFramePermissions": []
+}
